@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BeehiveManagementSystem
+namespace BeehiveManagementSystem2
 {
     class Queen
     {
